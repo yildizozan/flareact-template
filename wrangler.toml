@@ -2,7 +2,7 @@ name = "flareact-template"
 type = "webpack"
 account_id = ""
 workers_dev = true
-route = ""
+route = "worker.rematriks.com/*"
 zone_id = ""
 webpack_config = "node_modules/flareact/webpack"
 
